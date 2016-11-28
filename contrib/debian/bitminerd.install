@@ -1,0 +1,2 @@
+debian/bin/Bitminerd usr/bin
+src/Bitminerd usr/lib/Bitminer

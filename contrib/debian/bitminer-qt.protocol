@@ -1,0 +1,11 @@
+[Protocol]
+exec=Bitminer-qt '%u'
+protocol=Bitminer
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

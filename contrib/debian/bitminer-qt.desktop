@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Bitminer
+Comment=Bitminer P2P Cryptocurrency
+Comment[fr]=Bitminer, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Bitminer, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/Bitminer-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Bitminer;
+Categories=Office;

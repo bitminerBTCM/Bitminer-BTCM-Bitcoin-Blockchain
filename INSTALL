@@ -1,0 +1,9 @@
+Building Bitminer
+
+See doc/readme-qt.rst for instructions on building Bitminer QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Bitminer.
+
+See doc/build-*.txt for instructions on building bitminerd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Bitminer.
